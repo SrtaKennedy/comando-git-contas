@@ -14,7 +14,7 @@ Ou utilize esse comando:
 | Comandos | Descrição                          |
 | -------- | ---------------------------------|
 | `list` | Lista todas as suas contas do GitHub |
-| `logon` | Adiciona uma conta do GitHub        |
+| `logon` | Adiciona conta do GitHub        |
 | `logout` <account> | Remove alguma conta do GitHub |
 
 
