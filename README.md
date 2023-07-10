@@ -9,7 +9,8 @@ Utilizando os comandos:
     git-credential-manager github [command] [options]
     
 Ou utilize esse comando:    
-    `git-credential-manager github --help`
+
+    git-credential-manager github --help
 
 | Comandos | Descrição                          |
 | -------- | ---------------------------------|
